@@ -1,0 +1,7 @@
+IDE 
+	Visual Studio Code
+	WebStorm
+Lite
+	Sublime Text
+	Notepad++
+	Vim и Emacs

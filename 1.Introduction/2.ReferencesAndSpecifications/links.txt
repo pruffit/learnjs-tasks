@@ -1,0 +1,9 @@
+Спецификация
+	https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+	https://tc39.es/ecma262/
+Справочники
+	https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference
+	https://learn.microsoft.com/ru-ru/
+Таблицы совместимости
+	https://caniuse.com/
+	https://kangax.github.io/compat-table/es6/
