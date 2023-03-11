@@ -1,0 +1,7 @@
+Получив DOM-узел, мы можем перейти к его ближайшим соседям используя навигационные ссылки.
+
+Есть два основных набора ссылок:
+
+Для всех узлов: parentNode, childNodes, firstChild, lastChild, previousSibling, nextSibling.
+Только для узлов-элементов: parentElement, children, firstElementChild, lastElementChild, previousElementSibling, nextElementSibling.
+Некоторые виды DOM-элементов, например таблицы, предоставляют дополнительные ссылки и коллекции для доступа к своему содержимому.
